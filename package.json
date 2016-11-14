@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/prismicio/javascript-kit.git"
+    "url": "http://github.com/flybayer/javascript-kit.git"
   },
   "main": "lib/prismic.js",
   "scripts": {
